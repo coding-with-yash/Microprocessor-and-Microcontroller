@@ -5,7 +5,7 @@
               ;Department of IT, Sanjivani college of Engineering, Kopargaon
 
 INPUTSTR     MACRO BUFFADDR     
-             MOV AH,04H
+             MOV AH,0AH
              MOV DX,OFFSET BUFFADDR
              INT 21H
              ENDM
