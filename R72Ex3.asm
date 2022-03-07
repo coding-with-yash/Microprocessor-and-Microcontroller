@@ -1,4 +1,4 @@
- 	      ;3. Program for converting 8-n=bit binary number to Hex numbers
+ 	      ;3. Program for converting 8-bit binary number to Hex numbers
               ;Auther:Prof. A. A. Barbind
               ;Class:SY_IT
               ;Roll no:72
