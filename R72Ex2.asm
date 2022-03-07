@@ -1,5 +1,5 @@
               ;2. Program for addition of two 8-digit decimal numbers
-              ;Auther:Prof. A. A. Barbind
+              ;Auther:Prof. A. A. Barbind.
               ;Class:SY_IT
               ;Roll no:72
               ;Department of IT, Sanjivani college of Engineering, Kopargaon
